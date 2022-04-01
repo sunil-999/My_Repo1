@@ -1,1 +1,3 @@
 This is the sample file for checking the git pull command.
+
+This is to test the git fetch command.
